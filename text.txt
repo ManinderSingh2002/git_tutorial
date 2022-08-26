@@ -1,3 +1,0 @@
-hello guys i have made some changes to this file and we will se them 
-
-it's getting mit complex , we are jumping into the git push and pull requests,also we may learn about the branches 
